@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="marinat-9330-lap" name="TicTacToeP.TicTacToeTest" skipped="0" tests="5" time="0.012" timestamp="2025-01-20T19:55:15">
+  <properties>
+    <property name="ant.file.type.ass6" value="file" />
+    <property name="ant.library.dir" value="C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="17" />
+    <property name="ant.project.name" value="ass6" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-launcher.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-antlr.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-apache-bcel.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-apache-bsf.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-apache-log4j.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-apache-oro.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-apache-regexp.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-apache-resolver.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-apache-xalan2.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-commons-logging.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-commons-net.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-imageio.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-jai.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-jakartamail.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-javamail.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-jdepend.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-jmf.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-jsch.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-junit.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-junit4.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-junitlauncher.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-launcher.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-netrexx.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-swing.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-testutil.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant-xz.jar;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant.jar" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="os.name" value="Windows 11" />
+    <property name="java.vm.specification.version" value="17" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin" />
+    <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher test" />
+    <property name="jdk.debug" value="release" />
+    <property name="main.class" value="TicTacToeP.Main" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="test.dir" value="TicTacToeTest" />
+    <property name="user.home" value="C:\Users\Tal" />
+    <property name="user.language" value="en" />
+    <property name="sun.stderr.encoding" value="cp437" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2024-04-16" />
+    <property name="java.home" value="C:\Program Files\Java\jdk-17" />
+    <property name="file.separator" value="\" />
+    <property name="basedir" value="C:\Users\Tal\OneDrive\Desktop\HomeWork\Object Oriented Programming\Solutions 2.0\ass6" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="sun.stdout.encoding" value="cp437" />
+    <property name="ant.java.version" value="17" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="user.script" value="" />
+    <property name="test.report.dir" value="build/test-reports" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="17.0.11+7-LTS-207" />
+    <property name="java.security.manager" value="allow" />
+    <property name="user.name" value="Tal" />
+    <property name="ant.file" value="C:\Users\Tal\OneDrive\Desktop\HomeWork\Object Oriented Programming\Solutions 2.0\ass6\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="jar.file" value="build/dist/MyJavaProject.jar" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="ant.file.ass6" value="C:\Users\Tal\OneDrive\Desktop\HomeWork\Object Oriented Programming\Solutions 2.0\ass6\build.xml" />
+    <property name="dist.dir" value="build/dist" />
+    <property name="build.dir" value="build" />
+    <property name="ant.core.lib" value="C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="C:\Users\Tal\AppData\Local\Temp\" />
+    <property name="java.version" value="17.0.11" />
+    <property name="user.dir" value="C:\Users\Tal\OneDrive\Desktop\HomeWork\Object Oriented Programming\Solutions 2.0\ass6" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13" />
+    <property name="lib.dir" value="lib" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="native.encoding" value="Cp1252" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.13 compiled on January 4 2023" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\Tal\OneDrive\Desktop\apache-ant-1.10.13\bin;C:\Program Files\Git\cmd;C:\Users\Tal\AppData\Local\Microsoft\WindowsApps;C:\Users\Tal\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64;;." />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="java.vm.version" value="17.0.11+7-LTS-207" />
+    <property name="classes.dir" value="build/classes" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="61.0" />
+    <property name="src.dir" value="src" />
+    <property name="ant.project.default-target" value="jar" />
+  </properties>
+  <testcase classname="TicTacToeP.TicTacToeTest" name="verifyBoardSizeTest" time="0.001" />
+  <testcase classname="TicTacToeP.TicTacToeTest" name="handleWinnerTest" time="0.007" />
+  <testcase classname="TicTacToeP.TicTacToeTest" name="isValidPositionTest" time="0.0" />
+  <testcase classname="TicTacToeP.TicTacToeTest" name="isFullTest" time="0.001" />
+  <testcase classname="TicTacToeP.TicTacToeTest" name="checkWinner" time="0.0" />
+  <system-out><![CDATA[Congratulations, Alice! You won this game.
+Current Scores:
+Alice: 1 win(s)
+Bob: 0 win(s)
+Congratulations, Bob! You won this game.
+Current Scores:
+Alice: 1 win(s)
+Bob: 1 win(s)
+Congratulations, Alice! You won this game.
+Current Scores:
+Alice: 2 win(s)
+Bob: 1 win(s)
+Congratulations, Alice! You won this game.
+Current Scores:
+Alice: 3 win(s)
+Bob: 1 win(s)
+Congratulations, Bob! You won this game.
+Current Scores:
+Alice: 3 win(s)
+Bob: 2 win(s)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
