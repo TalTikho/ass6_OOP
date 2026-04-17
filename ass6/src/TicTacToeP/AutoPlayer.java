@@ -2,9 +2,7 @@ package TicTacToeP;
 import java.util.List;
 import java.util.Random;
 import java.util.ArrayList;
-//TalTikhonov
-//215275512
-//ass6
+
 /**
  * represents Auto player class.
  */
