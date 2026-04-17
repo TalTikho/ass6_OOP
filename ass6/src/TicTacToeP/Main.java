@@ -1,8 +1,6 @@
 package TicTacToeP;
 import java.util.Scanner;
-//TalTikhonov
-//215275512
-//ass6
+
 /**
  * TicTacToeP.Main class.
  */
