@@ -1,7 +1,5 @@
 package TicTacToeP;
-//TalTikhonov
-//215275512
-//ass6
+
 /**
  * Represents the board.
  */
